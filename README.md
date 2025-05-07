@@ -34,5 +34,4 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/edulighthub.git
-   cd edulighthub
+   file:///C:/Users/Pratima%20Mishra/Downloads/edulighthub-website.html#courses
