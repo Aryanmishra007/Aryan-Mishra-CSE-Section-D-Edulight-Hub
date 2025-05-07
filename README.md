@@ -12,7 +12,7 @@
 
 ## 📽️ Video Explanation
 [Watch the Project Demo](#)  
-(*Replace this with the actual video link when available*)
+(https://krmangalameduin-my.sharepoint.com/:v:/g/personal/2401010304_krmu_edu_in/ESw1e-aSuqdPiDKTW_P5CjgBJAIX5iBdr57LghERd5aFKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Zodp6s)
 
 ## 🛠️ Technologies Used
 
